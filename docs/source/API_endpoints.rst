@@ -4,7 +4,7 @@ API Endpoints
     API documentation is under development
 
 .. note::
-    All requests to endpoints below should include X-API-Key header with your api key which can be found in profile page
+    All requests to: ``app.netlas.io/api/`` endpoints below should include in the Headers, for e.g ``--header 'Authorization: APIKEYISHERE'`` with your API key which can be found in the ``Account --->> Profile`` page
 
 Responses
 -----------
